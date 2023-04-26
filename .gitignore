@@ -9,3 +9,6 @@ repo.git.zip
 **/.classpath
 **/.settings
 .bsp
+
+.DS_Store
+test-results/
